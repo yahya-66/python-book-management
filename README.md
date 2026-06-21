@@ -7,8 +7,8 @@ Fitur:
 - Cari Buku
 
 Cara Menjalankan:
-  Bash
-    python3 main.py
+- Bash
+    (python3 main.py)
   
 Teknologi:
 - Python 3
