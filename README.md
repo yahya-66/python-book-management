@@ -5,11 +5,14 @@ Fitur:
 - Lihat Buku
 - Hapus Buku
 - Cari Buku
+
 Cara Menjalankan:
   Bash
     python3 main.py
+  
 Teknologi:
 - Python 3
 - GitHub
+  
 Pembuat:
 - Yahya Nizar
